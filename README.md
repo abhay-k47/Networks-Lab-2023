@@ -74,7 +74,7 @@ git clone https://github.com/abhay-k47/Networks-Lab-2023.git
 ## References
 - [Introduction to Sockets Programming in C using TCP/IP](https://www.csd.uoc.gr/~hy556/material/tutorials/cs556-3rd-tutorial.pdf)
 - [Man-pages](https://man7.org/linux/man-pages/dir_all_alphabetic.html)
-- [ICMP-Guide] (http://www.tcpipguide.com/free/t_InternetControlMessageProtocolICMPICMPv4andICMPv6.htm)
+- [ICMP-Guide](http://www.tcpipguide.com/free/t_InternetControlMessageProtocolICMPICMPv4andICMPv6.htm)
 
 ## License
 - The code in this repository is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
